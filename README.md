@@ -18,9 +18,9 @@ We recommend changing the default split direction for each orientation in your
 `.vimrc`.
 
 ```vim
-# New vertical splits appear right.
+" New vertical splits appear right.
 set splitright
-# New horizontal splits appear below.
+" New horizontal splits appear below.
 set splitbelow
 ```
 
